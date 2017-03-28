@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\cats\cats\bin\debug\cats.dll" HashGuid="02db5e4d-d2ac-e19a-20f9-ca83183bf24b" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="d6a3dc69-a548-594a-6d32-f7c923aa64d9" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="e47c24a5-20c2-9f71-9849-dd6360f9b667" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="739997af-d3af-47b8-5b3b-888c2ab8fd2b" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="6cda1a83-1d8e-d2d4-211d-d5f3a06554ab" />
+    <ReferenceAssembly PathName="e:\programacion\xamarin\cats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
